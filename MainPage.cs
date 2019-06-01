@@ -22,6 +22,7 @@ namespace OOP
             {
                 default: Console.WriteLine("No Module was selected or wrong input was given");  break;
                 case "0": OverLoadingExercise(); break;
+                case "1": Console.WriteLine(); ; break;
             }
 
         }
